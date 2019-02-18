@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "voxel", "voxel\voxel.vcxproj", "{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		64Bit|x64 = 64Bit|x64
+		64Bit|x86 = 64Bit|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.64Bit|x64.ActiveCfg = 64Bit|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.64Bit|x64.Build.0 = 64Bit|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.64Bit|x86.ActiveCfg = Debug|Win32
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.64Bit|x86.Build.0 = Debug|Win32
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Debug|x64.ActiveCfg = Debug|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Debug|x64.Build.0 = Debug|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Debug|x86.Build.0 = Debug|Win32
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Release|x64.ActiveCfg = Release|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Release|x64.Build.0 = Release|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Release|x86.ActiveCfg = Release|x64
+		{89A8AD60-35C3-4D0B-9722-A54ECF3BBCCE}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED6C8CD-011F-4E62-A22E-EFD2816D50A0}
+	EndGlobalSection
+EndGlobal
